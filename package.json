@@ -33,11 +33,11 @@
 	"dependencies": {
 		"@actions/core": "1.11.1",
 		"@actions/github": "6.0.0",
-		"netlify": "13.3.3"
+		"netlify": "13.3.4"
 	},
 	"devDependencies": {
 		"@playform/build": "0.2.1",
-		"@types/node": "22.13.10",
+		"@types/node": "22.13.14",
 		"@vercel/ncc": "0.38.3",
 		"js-yaml": "4.1.0"
 	},
